@@ -1,2 +1,1 @@
-# auto_web
-Automação web com Sellinium
+Automação Web com Python e Sellenium
