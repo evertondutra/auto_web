@@ -1,1 +1,1 @@
-Automação Web com Python e Sellenium
+Atomação Web com Python e Selenium
